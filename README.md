@@ -108,8 +108,12 @@ Clients with the following authorized roles can perform specific request types:
     * 200 - authorized
     * 401 - unauthorized
 
-## Deployment Link
+## Deployment Links
 
 [gh pages](https://sarahcreager.github.io/todo-app/)
 
 [heroku](https://creager-todo-app-server.herokuapp.com/)
+
+## Contributions
+
+This server was initally constructed in class with the help of my fellow classmates, but it was not fully functional. I refactored the server and completed the routes and models so that it was able to connect to the front-end and process requests from the client.
