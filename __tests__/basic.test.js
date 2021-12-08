@@ -1,7 +1,7 @@
 'use strict';
 
 const { expect } = require('@jest/globals');
-const Basic = require('../lib/middleware/basic/basic');
+const Basic = require('../lib/middleware/basic');
 const { db, Users } = require('../lib/model');
 
 let userInfo = {
